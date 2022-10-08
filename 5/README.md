@@ -1,4 +1,4 @@
-# <a href='https://github.com/DmitryTatarintsev/Other-Projects/blob/main/1/1.ipynb'>Обработка фотографий покупателя</a>
+# <a href='https://github.com/DmitryTatarintsev/Other-Projects/blob/main/5/5.ipynb'>Обработка фотографий покупателя</a>
 ## Описание проекта
 Нужно определелить возраст по фотографии.
 ## Навыки и инструменты
