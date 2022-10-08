@@ -1,4 +1,4 @@
-# <a href='https://github.com/DmitryTatarintsev/Other-Projects/blob/main/1/1.ipynb'>Определение выгодного тарифа для телеком компании</a>
+# <a href='https://github.com/DmitryTatarintsev/Other-Projects/blob/main/4/4.ipynb'>Определение выгодного тарифа для телеком компании</a>
 ## Описание проекта
 Нужно на основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа.
 ## Навыки и инструменты
