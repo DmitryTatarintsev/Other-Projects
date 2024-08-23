@@ -12,6 +12,35 @@
 
 Сертификат: [RU](https://github.com/DmitryTatarintsev/Other-Projects/blob/main/Татаринцев%20Дмитрий%20Николаевич_20222DS00594.pdf), [ENG](https://github.com/DmitryTatarintsev/Other-Projects/blob/main/Dmitry%20Tatarintsev_20222DS00594.pdf).
 
+# Сертификат «Data Science, нейронные сети, машинное обучение и искусственный интеллект» — Университет Искусственного Интеллекта
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/DmitryTatarintsev/Other-Projects/blob/main/ds3.png" alt="Image 1" style="width: auto; height: auto;">
+</div>
+<br>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/DmitryTatarintsev/Other-Projects/blob/main/ds4.png" alt="Image 1" style="width: auto; height: auto;">
+</div>
+<br>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/DmitryTatarintsev/Other-Projects/blob/main/ds5.png" alt="Image 1" style="width: auto; height: auto;">
+</div>
+<br>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/DmitryTatarintsev/Other-Projects/blob/main/ds6.png" alt="Image 1" style="width: auto; height: auto;">
+</div>
+<br>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/DmitryTatarintsev/Other-Projects/blob/main/ds7.png" alt="Image 1" style="width: auto; height: auto;">
+</div>
+<br>
+
+Сертификат: [RU](https://github.com/DmitryTatarintsev/Other-Projects/blob/main/Сертификат_Data%20Science_Татаринцев%20Д.%20Н.pdf)
+
 # Стажировка (2022 г. - YYYY)
 
 | #  | Наименование проекта (Cсылка на проект.)  | Описание  | Стек | Дедлайн, Статус |
