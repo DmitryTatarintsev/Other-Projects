@@ -1,3 +1,10 @@
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/DmitryTatarintsev/Other-Projects/blob/main/Дмитрий%20Татаринцев.Data%20Scientist.Резюме.pdf.png" alt="Image 1" style="width: auto; height: auto;">
+</div>
+<br>
+
+Резюме: [RU](https://github.com/DmitryTatarintsev/Other-Projects/blob/main/Дмитрий%20Татаринцев.Data%20Scientist.Резюме.pdf)
+
 # Сертификат Data Science — Яндекс.Практикум
 
 <div style="display: flex; justify-content: center;">
